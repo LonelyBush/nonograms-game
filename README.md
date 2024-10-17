@@ -6,4 +6,4 @@ Design and overall functionality is my own implementation
 
 **Used technologies:** HTML, CSS, JavaScript
 
-**Deploy:** https://lonelybush.github.io/nonograms-game/nonograms-task/index.html
+**Deploy:** https://lonelybush.github.io/nonograms-game/nonograms-game/index.html
