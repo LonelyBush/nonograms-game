@@ -7,4 +7,4 @@ Design and overall functionality is my own implementation
 
 **Used technologies:** HTML, CSS, JavaScript
 
-**Deploy:** https://lonelybush.github.io/RSS_School_2023Q4_Projects/nonograms-task/
+**Deploy:** https://lonelybush.github.io/nonograms-game/nonograms-task/index.html
